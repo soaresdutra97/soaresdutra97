@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Sou desenvolvedor Back-End com foco maior em Java, e estou aprendendo mais sobre Spring, JPA e Spring Security. Estou aprendendo também React JS e JavaScript! Trabalho principalmente com bancos realacionais, como MySQL e PostgreSQL. Utilizo o Git e GitHub, e estou aprendendo Docker. Meus códigos são baseados na arquitetura Limpa.
+Sou desenvolvedor Back-End com foco maior em Java, e estou aprendendo mais sobre Spring, JPA e Spring Security. Estou aprendendo também React JS e JavaScript! Trabalho principalmente com bancos realacionais, como MySQL e PostgreSQL. Utilizo o Git e GitHub, e estou estudando Docker. Meus códigos são baseados na arquitetura Limpa.
 
 :)
 
