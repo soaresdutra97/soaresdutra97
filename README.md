@@ -3,8 +3,7 @@
 Sou desenvolvedor Back-End com foco maior em Java, e estou aprendendo mais sobre Spring, JPA e Spring Security. Estou aprendendo também React JS e JavaScript! Trabalho principalmente com bancos realacionais, como MySQL e PostgreSQL. Utilizo o Git e GitHub, e estou estudando Docker. Meus códigos são baseados na arquitetura Limpa.
 
 :)
-
-Meu Linkedin: https://www.linkedin.com/in/chrystian-dutra/
+  <a href="https://www.linkedin.com/in/chrystian-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **soaresdutra97/soaresdutra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
