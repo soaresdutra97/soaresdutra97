@@ -1,6 +1,8 @@
 ### Olá! 👋
 
-Sou desenvolvedor Back-End com foco maior em Java, e estou aprendendo mais sobre Spring, JPA e Spring Security. Estou aprendendo também React JS e JavaScript! Trabalho principalmente com bancos realacionais, como MySQL e PostgreSQL. Utilizo o Git e GitHub, e estou estudando Docker. Meus códigos são baseados na arquitetura Limpa :)
+Sou um desenvolvedor back-end sempre em busca de novas experiências para desenvolvimento pessoal. Realizo profissionalmente desde 2021 diversos projetos na área da programação. Possuo formação em ADS (Análise e Desenvolvimento de Sistemas) pela PUC-PR, e estou cursando o primeiro período de Engenharia de Software pela Anhanguera. 
+
+Hoje meu foco maior é em Back-End, onde estou aplicando meus conhecimentos e desenvolvendo microserviços com Spring Boot e JPA, segurança com Spring Security, documentação com Swagger, mensageria com Kafka e uso do Git e do Docker.
 
   <a href="https://www.linkedin.com/in/chrystian-dutra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
